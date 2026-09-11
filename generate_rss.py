@@ -8,6 +8,7 @@ urls = [
     "https://www.aciprensa.com/tags/12758/iglesia-catolica-en-peru?page=1 ",
     "https://www.aciprensa.com/noticias/etiquetas/peru",
     "https://www.aciprensa.com/noticias/etiquetas/vientre-de-alquiler",
+    "https://www.aciprensa.com/tags/12758/iglesia-catolica-en-peru?page=1 ",
 ]
 
 fg = FeedGenerator()
